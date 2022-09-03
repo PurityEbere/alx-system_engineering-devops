@@ -1,1 +1,1 @@
-write
+A scrippt ths switches the current user to the user betty
